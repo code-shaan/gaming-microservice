@@ -1,4 +1,4 @@
-package com.example.ec.domain;
+package org.gaming.tavern.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Embeddable;

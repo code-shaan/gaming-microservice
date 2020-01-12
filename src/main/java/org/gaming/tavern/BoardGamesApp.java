@@ -1,12 +1,12 @@
-package org.example.ec;
+package org.gaming.tavern;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import org.example.ec.domain.BestPlayedAt;
-import org.example.ec.domain.Difficulty;
-import org.example.ec.service.BoardGameCategoryService;
-import org.example.ec.service.BoardGameService;
+import org.gaming.tavern.domain.BestPlayedAt;
+import org.gaming.tavern.domain.Difficulty;
+import org.gaming.tavern.service.BoardGameCategoryService;
+import org.gaming.tavern.service.BoardGameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;

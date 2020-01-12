@@ -1,7 +1,7 @@
-package com.example.ec.service;
+package org.gaming.tavern.service;
 
-import org.example.ec.domain.BoardGameCategory;
-import org.example.ec.repo.BoardGameCategoryRepository;
+import org.gaming.tavern.domain.BoardGameCategory;
+import org.gaming.tavern.repo.BoardGameCategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

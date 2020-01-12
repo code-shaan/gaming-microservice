@@ -1,6 +1,6 @@
-package com.example.ec.repo;
+package org.gaming.tavern.repo;
 
-import org.example.ec.domain.BoardGameCategory;
+import org.gaming.tavern.domain.BoardGameCategory;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

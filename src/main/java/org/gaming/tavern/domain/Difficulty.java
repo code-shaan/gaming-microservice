@@ -1,4 +1,4 @@
-package com.example.ec.domain;
+package org.gaming.tavern.domain;
 
 public enum Difficulty {
     Beginner, Intermediate, Advanced;

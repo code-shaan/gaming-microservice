@@ -1,11 +1,11 @@
-package com.example.ec.service;
+package org.gaming.tavern.service;
 
-import org.example.ec.domain.BestPlayedAt;
-import org.example.ec.domain.BoardGame;
-import org.example.ec.domain.BoardGameCategory;
-import org.example.ec.domain.Difficulty;
-import org.example.ec.repo.BoardGameCategoryRepository;
-import org.example.ec.repo.BoardGameRepository;
+import org.gaming.tavern.domain.BestPlayedAt;
+import org.gaming.tavern.domain.BoardGame;
+import org.gaming.tavern.domain.BoardGameCategory;
+import org.gaming.tavern.domain.Difficulty;
+import org.gaming.tavern.repo.BoardGameCategoryRepository;
+import org.gaming.tavern.repo.BoardGameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

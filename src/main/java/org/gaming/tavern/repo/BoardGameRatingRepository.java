@@ -1,7 +1,7 @@
-package com.example.ec.repo;
+package org.gaming.tavern.repo;
 
-import org.example.ec.domain.BoardGameRating;
-import org.example.ec.domain.BoardGameRatingPk;
+import org.gaming.tavern.domain.BoardGameRating;
+import org.gaming.tavern.domain.BoardGameRatingPk;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.CrudRepository;

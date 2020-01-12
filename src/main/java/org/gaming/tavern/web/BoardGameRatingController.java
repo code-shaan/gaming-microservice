@@ -1,10 +1,10 @@
-package com.example.ec.web;
+package org.gaming.tavern.web;
 
-import org.example.ec.domain.BoardGame;
-import org.example.ec.domain.BoardGameRating;
-import org.example.ec.domain.BoardGameRatingPk;
-import org.example.ec.repo.BoardGameRatingRepository;
-import org.example.ec.repo.BoardGameRepository;
+import org.gaming.tavern.domain.BoardGame;
+import org.gaming.tavern.domain.BoardGameRating;
+import org.gaming.tavern.domain.BoardGameRatingPk;
+import org.gaming.tavern.repo.BoardGameRatingRepository;
+import org.gaming.tavern.repo.BoardGameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
@@ -12,7 +12,6 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
-import java.util.Map;
 import java.util.NoSuchElementException;
 import java.util.stream.Collectors;
 

@@ -1,6 +1,6 @@
-package com.example.ec.repo;
+package org.gaming.tavern.repo;
 
-import org.example.ec.domain.BoardGame;
+import org.gaming.tavern.domain.BoardGame;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.PagingAndSortingRepository;

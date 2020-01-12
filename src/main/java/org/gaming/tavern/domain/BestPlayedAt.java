@@ -1,4 +1,4 @@
-package com.example.ec.domain;
+package org.gaming.tavern.domain;
 
 public enum BestPlayedAt {
     Two("Two"), Three("Three"), Two_To_Four("Two_To_Four"), Three_To_five("Three_To_five"), Varies("Varies");

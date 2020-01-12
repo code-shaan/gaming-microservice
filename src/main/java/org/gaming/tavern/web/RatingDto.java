@@ -1,11 +1,11 @@
-package com.example.ec.web;
+package org.gaming.tavern.web;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-import com.example.ec.domain.BoardGameRating;
+import org.gaming.tavern.domain.BoardGameRating;
 
 public class RatingDto {
 
