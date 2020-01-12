@@ -1,0 +1,52 @@
+[
+  {
+    "categoryType": "Card Game",
+    "title": "Through the Ages: A New Story of Civilization",
+    "description": "Through the Ages is a civilization building game. Each player attempts to build the best civilization through careful resource management, discovering new technologies, electing the right leaders, building wonders and maintaining a strong military. Weakness in any area can be exploited by your opponents. The game takes place throughout the ages beginning in the age of antiquity and ending in the modern age.",
+    "difficulty": "Advanced",
+    "playtime": "120 mins",
+    "price": "46",
+    "bestPlayedAt": "Two_To_Four",
+    "keywords": "Card Game, Through the Ages"
+  },
+  {
+    "categoryType": "Dice",
+    "title": "Machi Koro",
+    "description": "Machi Koro is a fast-paced game for 2-4 players. Each player wants to develop the city on their own terms in order to complete all of the landmarks under construction faster than their rivals. On their turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, they get the effect of that building; in some cases opponents will also benefit from your dice (just as you can benefit from theirs).",
+    "difficulty": "Beginner",
+    "playtime": "30 mins",
+    "price": "29",
+    "bestPlayedAt": "Two_To_Four",
+    "keywords": "Dice Game, Machi Koro"
+  },
+  {
+    "categoryType": "Card Game",
+    "title": "Through the Ages: A New Story of Civilization",
+    "description": "Through the Ages is a civilization building game. Each player attempts to build the best civilization through careful resource management, discovering new technologies, electing the right leaders, building wonders and maintaining a strong military. Weakness in any area can be exploited by your opponents. The game takes place throughout the ages beginning in the age of antiquity and ending in the modern age.",
+    "difficulty": "Advanced",
+    "playtime": "120 mins",
+    "price": "46",
+    "bestPlayedAt": "Two_To_Four",
+    "keywords": "Card Game, Through the Ages"
+  },
+  {
+    "categoryType": "Deduction",
+    "title": "Codenames",
+    "description": "In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.",
+    "difficulty": "Beginner",
+    "playtime": "20 mins",
+    "price": "13",
+    "bestPlayedAt": "Varies",
+    "keywords": "Puzzle, Codes"
+  },
+  {
+    "categoryType": "Deduction",
+    "title": "Secret Hitler",
+    "description": "Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.",
+    "difficulty": "Intermediate",
+    "playtime": "45 mins",
+    "price": "25",
+    "bestPlayedAt": "Three_To_Five",
+    "keywords": "Deduction, Bluffing"
+  }
+]
